@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width,initial-scale=1,viewport-fit=cover"
+    />
+    <meta name="theme-color" content="#f7f5ef" />
+    <meta
+      name="description"
+      content="Zusammenzeug – unser Platz für Rezepte, Einkauf und gemeinsame Pläne."
+    />
+    <title>Zusammenzeug · Unser Alltag, zusammen</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="shell">
+      <aside class="sidebar">
+        <a class="brand" href="#home"
+          ><span class="brand-icon">z<span>✳</span></span
+          ><span>zusammenzeug<small>Ein Platz für uns.</small></span></a
+        >
+        <div class="nav-label">UNSER ZUSAMMENZEUG</div>
+        <nav aria-label="Hauptnavigation">
+          <a href="#home" data-nav="home"></a
+          ><a href="#recipes" data-nav="recipes"></a
+          ><a href="#shopping" data-nav="shopping"></a>
+        </nav>
+        <div class="sidebar-note">
+          <span>♡</span
+          ><strong>Die kleinen Dinge.<br />Zusammen gesammelt.</strong>
+          <p>
+            Rezepte, Ideen und alles,<br />was unseren Alltag schöner macht.
+          </p>
+        </div>
+        <button id="theme" class="theme" type="button"></button>
+        <div class="local-note">Nur auf diesem Gerät gespeichert</div>
+      </aside>
+      <main id="main"></main>
+    </div>
+    <dialog id="modal" aria-labelledby="modal-title"></dialog>
+    <div id="toast" role="status" aria-live="polite"></div>
+    <script type="module" src="app.js"></script>
+  </body>
+</html>

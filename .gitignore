@@ -1,0 +1,5 @@
+dist/
+node_modules/
+
+.qa.html
+qa-preview.html

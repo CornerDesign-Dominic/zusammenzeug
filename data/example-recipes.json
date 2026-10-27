@@ -1,0 +1,93 @@
+[
+  {
+    "id": "example-spaghetti-tomatensauce",
+    "name": "Spaghetti mit Tomatensauce",
+    "portions": 2,
+    "minutes": 25,
+    "category": "Pasta",
+    "isExample": true,
+    "ingredients": [
+      { "name": "Spaghetti", "quantity": 200, "unit": "g" },
+      { "name": "Gehackte Tomaten", "quantity": 400, "unit": "g" },
+      { "name": "Zwiebel", "quantity": 1, "unit": "Stück" },
+      { "name": "Knoblauch", "quantity": 1, "unit": "Zehe" },
+      { "name": "Olivenöl", "quantity": 1, "unit": "EL" },
+      { "name": "Salz", "quantity": null, "unit": "" },
+      { "name": "Pfeffer", "quantity": null, "unit": "" }
+    ],
+    "instructions": "1. Zwiebel und Knoblauch schälen und fein würfeln.\n2. Olivenöl in einer Pfanne erhitzen. Die Zwiebel bei mittlerer Hitze etwa 3 Minuten anschwitzen, den Knoblauch kurz mitbraten.\n3. Gehackte Tomaten dazugeben und etwa 15 Minuten leicht köcheln lassen. Mit Salz und Pfeffer abschmecken.\n4. Währenddessen die Spaghetti nach Packungsangabe in Salzwasser garen und abgießen.\n5. Nudeln mit der Sauce vermischen und servieren."
+  },
+  {
+    "id": "example-pfannkuchen",
+    "name": "Einfache Pfannkuchen",
+    "portions": 2,
+    "minutes": 25,
+    "category": "Süße Küche",
+    "isExample": true,
+    "ingredients": [
+      { "name": "Mehl", "quantity": 150, "unit": "g" },
+      { "name": "Milch", "quantity": 250, "unit": "ml" },
+      { "name": "Eier", "quantity": 2, "unit": "Stück" },
+      { "name": "Zucker", "quantity": 1, "unit": "EL" },
+      { "name": "Salz", "quantity": 1, "unit": "Prise" },
+      { "name": "Rapsöl", "quantity": 2, "unit": "EL" }
+    ],
+    "instructions": "1. Mehl, Milch, Eier, Zucker und Salz zu einem glatten Teig verrühren.\n2. Den Teig etwa 10 Minuten ruhen lassen.\n3. Eine beschichtete Pfanne bei mittlerer Hitze erwärmen und mit etwas Rapsöl ausstreichen.\n4. Jeweils eine Portion Teig dünn in der Pfanne verteilen. Etwa 1–2 Minuten backen, bis die Unterseite goldbraun ist, wenden und fertig backen.\n5. Mit dem übrigen Teig wiederholen und das Öl nach Bedarf portionsweise verwenden. Die Menge ergibt ungefähr 4 mittelgroße Pfannkuchen."
+  },
+  {
+    "id": "example-ofengemuese-kartoffeln",
+    "name": "Ofengemüse mit Kartoffeln",
+    "portions": 2,
+    "minutes": 45,
+    "category": "Ofengerichte",
+    "isExample": true,
+    "ingredients": [
+      { "name": "Kartoffeln", "quantity": 500, "unit": "g" },
+      { "name": "Paprika", "quantity": 1, "unit": "Stück" },
+      { "name": "Zucchini", "quantity": 1, "unit": "Stück" },
+      { "name": "Möhren", "quantity": 2, "unit": "Stück" },
+      { "name": "Olivenöl", "quantity": 2, "unit": "EL" },
+      { "name": "Paprikapulver", "quantity": 1, "unit": "TL" },
+      { "name": "Salz", "quantity": null, "unit": "" },
+      { "name": "Pfeffer", "quantity": null, "unit": "" }
+    ],
+    "instructions": "1. Den Backofen auf 200 °C Ober-/Unterhitze vorheizen. Ein Blech mit Backpapier auslegen.\n2. Kartoffeln und Möhren waschen, nach Wunsch schälen und in etwa 1–2 cm große Stücke schneiden.\n3. Paprika entkernen und zusammen mit der Zucchini in etwas größere Stücke schneiden.\n4. Alles mit Olivenöl, Paprikapulver, Salz und Pfeffer vermischen und auf dem Blech verteilen.\n5. Etwa 30–35 Minuten backen und nach der Hälfte der Zeit wenden. Vor dem Servieren prüfen, ob die Kartoffeln weich sind."
+  },
+  {
+    "id": "example-gemuesereis",
+    "name": "Bunte Gemüse-Reispfanne",
+    "portions": 2,
+    "minutes": 25,
+    "category": "Schnelle Küche",
+    "isExample": true,
+    "ingredients": [
+      { "name": "Reis", "quantity": 150, "unit": "g" },
+      { "name": "Paprika", "quantity": 1, "unit": "Stück" },
+      { "name": "Möhre", "quantity": 1, "unit": "Stück" },
+      { "name": "Tiefkühlerbsen", "quantity": 100, "unit": "g" },
+      { "name": "Zwiebel", "quantity": 1, "unit": "Stück" },
+      { "name": "Rapsöl", "quantity": 1, "unit": "EL" },
+      { "name": "Sojasauce", "quantity": 2, "unit": "EL" },
+      { "name": "Pfeffer", "quantity": null, "unit": "" }
+    ],
+    "instructions": "1. Reis nach Packungsangabe in Wasser garen.\n2. Zwiebel und Möhre schälen. Die Paprika entkernen. Alles klein würfeln.\n3. Rapsöl in einer großen Pfanne erhitzen. Zwiebel und Möhre etwa 5 Minuten bei mittlerer Hitze anbraten.\n4. Paprika und Tiefkühlerbsen hinzufügen und weitere 5–7 Minuten garen. Bei Bedarf einen kleinen Schuss Wasser dazugeben.\n5. Den gegarten Reis unterheben, mit Sojasauce und Pfeffer abschmecken und alles kurz zusammen erhitzen."
+  },
+  {
+    "id": "example-ruehrei-brot",
+    "name": "Rührei mit Tomaten und Brot",
+    "portions": 2,
+    "minutes": 15,
+    "category": "Frühstück",
+    "isExample": true,
+    "ingredients": [
+      { "name": "Eier", "quantity": 4, "unit": "Stück" },
+      { "name": "Milch", "quantity": 2, "unit": "EL" },
+      { "name": "Tomaten", "quantity": 2, "unit": "Stück" },
+      { "name": "Butter", "quantity": 10, "unit": "g" },
+      { "name": "Brot", "quantity": 4, "unit": "Scheibe" },
+      { "name": "Salz", "quantity": null, "unit": "" },
+      { "name": "Pfeffer", "quantity": null, "unit": "" }
+    ],
+    "instructions": "1. Tomaten waschen und würfeln. Eier mit Milch, Salz und Pfeffer verquirlen.\n2. Butter in einer beschichteten Pfanne bei mittlerer Hitze schmelzen lassen.\n3. Tomaten etwa 2 Minuten anbraten. Die Eimischung dazugeben.\n4. Bei niedriger bis mittlerer Hitze stocken lassen und mit einem Pfannenwender vorsichtig zusammenschieben, bis das Ei vollständig gestockt ist.\n5. Mit den Brotscheiben servieren."
+  }
+]
